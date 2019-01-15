@@ -1,7 +1,7 @@
 {
   "variables": {
-    "name": "nikcbg/redis64",
-    "build_name": "redis64",
+    "name": "nikcbg/redis64_2",
+    "build_name": "redis64_2",
     "build_cpu_cores": "2",
     "build_memory": "1024",
     "cpu_cores": "1",
